@@ -1,2 +1,1 @@
 # java-ecommerce
-backend-ecommerce
